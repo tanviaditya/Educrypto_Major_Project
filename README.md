@@ -1,4 +1,3 @@
-# Educrypto_Major_Project
 
 # EduCrypto: Transforming Education using Blockchain
 
